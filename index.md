@@ -19,7 +19,7 @@
 <p><img src="doc/landing-page.png"></p>
 <h4>Registration<h4>
 <p>Register for an account by clicking "Login" then "Sign Up"</p>
-<p><img src=doc/registration.png"></p>
+<p><img src="doc/registration.png"></p>
 <h4>Sign In<h4>
 <p>Click "Login" then "Sign in" to take you to the login page and sign in to your account</p>
 <p><img src="doc/login.png"></p>
