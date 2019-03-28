@@ -1,3 +1,4 @@
+<h1>Digits</h1>
 <img src="doc/landing-page.png">
 
 <h3>Installation Instructions:</h3>
