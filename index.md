@@ -15,10 +15,10 @@
 <p>meteor npm run lint</p>
 
 <h3>User Interface Walkthrough</h3>
-<h4>Landing Page<h4>
+<h4>Landing Page</h4>
 <p>You will see the homepage / landing page that gives you information of the site's features.</p>
 <p><img src="doc/landing-page.png"></p>
-<h4>Registration<h4>
+<h4>Registration</h4>
 <p>Register for an account by clicking "Login" then "Sign Up"</p>
 <p><img src="doc/registration.png"></p>
 <h4>Sign In<h4>
